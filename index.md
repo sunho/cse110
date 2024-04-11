@@ -2,9 +2,9 @@
 
 ## Introduction
 
-My name is Sunho. I'm a third year cs student from Muir College. I'm also an international student from South Korea. 
+My name is Sunho. I'm a third year cs student from Muir College.
 
-I'm really passionate about programming. In fact, I've started coding when I was in elementary school and kept pouring efforts to polish my skills. So, if you want to have a nerdy technical discussion or are stuck on some weird bug, feel free to hit me up! If you're curious about the works I've done, you can find them in: [suhno.io](https://sunho.io)
+I've been really passionate about programming since when I was in elementary school. So, if you want to have a nerdy technical discussion or are stuck on some weird bug, feel free to hit me up! If you're curious about the works I've done, you can find them in: [suhno.io](https://sunho.io)
 
 Besides work, I love playing chess and tetris. I've also started cooking most of my meal since last year and it has become a sort of hobby. The best food I can make is spicy stir-fried fork. I try to jog every single day, so you might find me running across campus at random hours. 
 
